@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="73338318835cd710ac771896feaad32d" label=" Apartment Complaint " max_length="40" name="x_1622046_apartm_0_apartment_complaint" type="collection">
+        <element label="Resolved Date" max_length="40" name="resolved_date" type="glide_date_time"/>
+        <element label="Assigned Department" max_length="32" name="assigned_department" reference="x_1622046_apartm_0_maintenance_department" type="reference"/>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Closed" sequence="5" value="Closed"/>
+                <element inactive_on_update="false" label="Assigned" sequence="1" value="Assigned"/>
+                <element inactive_on_update="false" label="Resolved" sequence="4" value="Resolved"/>
+                <element inactive_on_update="false" label="On Hold" sequence="3" value="On Hold"/>
+                <element inactive_on_update="false" label="In Progress" sequence="2" value="In Progress"/>
+                <element inactive_on_update="false" label="Submitted" sequence="0" value="Submitted"/>
+            </choice>
+        </element>
+        <element label="Reported Date" max_length="40" name="reported_date" type="glide_date_time"/>
+        <element choice="1" label="Priority" max_length="40" name="priority" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Medium" sequence="1" value="Medium"/>
+                <element inactive_on_update="false" label="Critical" sequence="3" value="Critical"/>
+                <element inactive_on_update="false" label="High" sequence="2" value="High"/>
+                <element inactive_on_update="false" label="Low" sequence="0" value="Low"/>
+            </choice>
+        </element>
+        <element label="Flat Number" max_length="40" name="flat_number" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Complaint Number" max_length="40" name="number" reference="x_1622046_apartm_0_complaint_category" type="reference"/>
+        <element label="Assigned Worker" max_length="32" name="assigned_worker" reference="x_1622046_apartm_0_maintenance_worker" type="reference"/>
+        <element label="Short Description" max_length="40" name="short_description" type="string"/>
+        <element label="Resolution Notes" max_length="40" name="resolution_notes" type="string"/>
+        <element label="Description" max_length="40" name="description" type="string"/>
+        <element label="Selected Agency" max_length="32" name="selected_agency" reference="x_1622046_apartm_0_maintenance_agency" type="reference"/>
+        <element label="Resident" max_length="32" name="resident" reference="x_1622046_apartm_0_apartment_resident" type="reference"/>
+        <index name="index">
+            <element name="assigned_department"/>
+        </index>
+        <index name="index2">
+            <element name="assigned_worker"/>
+        </index>
+        <index name="index3">
+            <element name="resident"/>
+        </index>
+        <index name="index4">
+            <element name="selected_agency"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4b4653dc83dcd710ac771896feaad378" label="Maintenance Work Order" max_length="40" name="x_1622046_apartm_0_maintenance_work_order" type="collection">
+        <element label="Assigned Worker" max_length="40" name="assigned_worker" reference="x_1622046_apartm_0_maintenance_worker" type="reference"/>
+        <element label="Scheduled Start" max_length="40" name="scheduled_start" type="string"/>
+        <element label="Complaint" max_length="40" name="complaint" reference="x_1622046_apartm_0_apartment_complaint" type="reference"/>
+        <element label="Completion Notes" max_length="40" name="completion_notes" type="string"/>
+        <element label="Maintenance Agency" max_length="40" name="maintenance_agency" reference="x_1622046_apartm_0_maintenance_agency" type="reference"/>
+        <element label="Maintenance Department" max_length="40" name="maintenance_department" reference="x_1622046_apartm_0_maintenance_department" type="reference"/>
+        <element label="Work Notes" max_length="40" name="work_notes" type="string"/>
+        <element label="Actual Start" max_length="40" name="actual_start" type="string"/>
+        <element choice="1" label="Work Status " max_length="40" name="work_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Completed" sequence="4" value="Completed"/>
+                <element inactive_on_update="false" label="On Hold" sequence="3" value="On Hold"/>
+                <element inactive_on_update="false" label="Created" sequence="0" value="Created"/>
+                <element inactive_on_update="false" label="In Progress" sequence="2" value="In Progress"/>
+                <element inactive_on_update="false" label="Cancelled" sequence="5" value="Cancelled"/>
+                <element inactive_on_update="false" label="Assigned" sequence="1" value="Assigned"/>
+            </choice>
+        </element>
+        <element label="Work Description" max_length="40" name="work_description" type="string"/>
+        <element label="Actual End" max_length="40" name="actual_end" type="string"/>
+    </element>
+</database>

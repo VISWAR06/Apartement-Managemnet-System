@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="dba239ff8380d310ac771896feaad3f2" label="Maintenance Department" max_length="40" name="x_1622046_apartm_0_maintenance_department" type="collection">
+        <element label="Description" max_length="100" name="description" type="string"/>
+        <element label="Department Manager" max_length="32" name="department_manager" reference="sys_user" type="reference"/>
+        <element label="Department Code" max_length="40" name="department_code" type="string"/>
+        <element label="Department Name" max_length="40" name="department_name" type="string"/>
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <index name="index">
+            <element name="department_manager"/>
+        </index>
+    </element>
+</database>

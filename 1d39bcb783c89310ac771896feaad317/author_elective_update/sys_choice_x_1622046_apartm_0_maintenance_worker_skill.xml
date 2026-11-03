@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="skill" table="x_1622046_apartm_0_maintenance_worker" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>skill</element>
+            <name>x_1622046_apartm_0_maintenance_worker</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-28 05:13:41</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>skill</sys_name>
+            <sys_package display_value="Apartment Maintenance Management System " source="x_1622046_apartm_0">1d39bcb783c89310ac771896feaad317</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Apartment Maintenance Management System ">1d39bcb783c89310ac771896feaad317</sys_scope>
+            <sys_update_name>sys_choice_x_1622046_apartm_0_maintenance_worker_skill</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-28 05:13:41</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>skill</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Plumbing</label>
+            <language>en</language>
+            <name>x_1622046_apartm_0_maintenance_worker</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-28 05:13:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-28 05:13:41</sys_updated_on>
+            <value>Plumbing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>skill</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Electrical</label>
+            <language>en</language>
+            <name>x_1622046_apartm_0_maintenance_worker</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-28 05:13:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-28 05:13:41</sys_updated_on>
+            <value>Electrical</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>skill</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Carpentry</label>
+            <language>en</language>
+            <name>x_1622046_apartm_0_maintenance_worker</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-28 05:13:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-28 05:13:41</sys_updated_on>
+            <value>Carpentry</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>skill</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Civil</label>
+            <language>en</language>
+            <name>x_1622046_apartm_0_maintenance_worker</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-28 05:13:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-28 05:13:41</sys_updated_on>
+            <value>Civil</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>skill</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Painting</label>
+            <language>en</language>
+            <name>x_1622046_apartm_0_maintenance_worker</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-28 05:13:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-28 05:13:41</sys_updated_on>
+            <value>Painting</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>skill</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Housekeeping</label>
+            <language>en</language>
+            <name>x_1622046_apartm_0_maintenance_worker</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-28 05:13:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-28 05:13:41</sys_updated_on>
+            <value>Housekeeping</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>skill</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Lift</label>
+            <language>en</language>
+            <name>x_1622046_apartm_0_maintenance_worker</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-28 05:13:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-28 05:13:41</sys_updated_on>
+            <value>Lift</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>skill</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Air Conditioning</label>
+            <language>en</language>
+            <name>x_1622046_apartm_0_maintenance_worker</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-28 05:13:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-28 05:13:41</sys_updated_on>
+            <value>Air Conditioning</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>skill</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fire Safety Systems</label>
+            <language>en</language>
+            <name>x_1622046_apartm_0_maintenance_worker</name>
+            <sequence>8</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-28 05:13:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-28 05:13:41</sys_updated_on>
+            <value>Fire Safety Systems</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>skill</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Security Systems</label>
+            <language>en</language>
+            <name>x_1622046_apartm_0_maintenance_worker</name>
+            <sequence>9</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-28 05:13:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-28 05:13:41</sys_updated_on>
+            <value>Security Systems</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>skill</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Water Supply</label>
+            <language>en</language>
+            <name>x_1622046_apartm_0_maintenance_worker</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-28 05:13:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-28 05:13:41</sys_updated_on>
+            <value>Water Supply</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>skill</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Drainage Maintenance</label>
+            <language>en</language>
+            <name>x_1622046_apartm_0_maintenance_worker</name>
+            <sequence>11</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-28 05:13:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-28 05:13:41</sys_updated_on>
+            <value>Drainage Maintenance</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>skill</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Power Backup</label>
+            <language>en</language>
+            <name>x_1622046_apartm_0_maintenance_worker</name>
+            <sequence>12</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-28 05:13:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-28 05:13:41</sys_updated_on>
+            <value>Power Backup</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>skill</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Appliance Repair</label>
+            <language>en</language>
+            <name>x_1622046_apartm_0_maintenance_worker</name>
+            <sequence>13</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-28 05:13:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-28 05:13:41</sys_updated_on>
+            <value>Appliance Repair</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>skill</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pest Control</label>
+            <language>en</language>
+            <name>x_1622046_apartm_0_maintenance_worker</name>
+            <sequence>14</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-28 05:13:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-28 05:13:41</sys_updated_on>
+            <value>Pest Control</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>skill</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Gardening</label>
+            <language>en</language>
+            <name>x_1622046_apartm_0_maintenance_worker</name>
+            <sequence>15</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-28 05:13:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-28 05:13:41</sys_updated_on>
+            <value>Gardening</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>skill</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Welding</label>
+            <language>en</language>
+            <name>x_1622046_apartm_0_maintenance_worker</name>
+            <sequence>16</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-28 05:13:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-28 05:13:41</sys_updated_on>
+            <value>Welding</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>skill</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>General Maintenance</label>
+            <language>en</language>
+            <name>x_1622046_apartm_0_maintenance_worker</name>
+            <sequence>17</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-28 05:13:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-28 05:13:41</sys_updated_on>
+            <value>General Maintenance</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

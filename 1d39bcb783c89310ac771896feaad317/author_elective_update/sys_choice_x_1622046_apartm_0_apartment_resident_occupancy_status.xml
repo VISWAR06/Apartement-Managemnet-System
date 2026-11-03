@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="occupancy_status" table="x_1622046_apartm_0_apartment_resident" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>occupancy_status</element>
+            <name>x_1622046_apartm_0_apartment_resident</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-27 08:57:04</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>occupancy_status</sys_name>
+            <sys_package display_value="Apartment Maintenance Management System " source="x_1622046_apartm_0">1d39bcb783c89310ac771896feaad317</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Apartment Maintenance Management System ">1d39bcb783c89310ac771896feaad317</sys_scope>
+            <sys_update_name>sys_choice_x_1622046_apartm_0_apartment_resident_occupancy_status</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-27 08:57:04</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>occupancy_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Occupied</label>
+            <language>en</language>
+            <name>x_1622046_apartm_0_apartment_resident</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-27 08:57:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-27 09:13:04</sys_updated_on>
+            <value>Occupied</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>occupancy_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Vacated</label>
+            <language>en</language>
+            <name>x_1622046_apartm_0_apartment_resident</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-27 08:57:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-27 09:12:59</sys_updated_on>
+            <value>Vacated</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
